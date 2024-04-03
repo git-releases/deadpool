@@ -1,3 +1,3 @@
 window.global = window;
 
-window.API_KEY = "YOUR_API_KEY_HERE";
+window.API_KEY = "su6mhzorxe9vadgskzmqec";
